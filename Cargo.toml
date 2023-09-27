@@ -1,0 +1,13 @@
+[package]
+name = "brize_session"
+version = "0.1.0"
+edition = "2021"
+authors=["Jonathan Karrer <karrerjon@gmail.com>"]
+description = "Light session module for Brize"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/xbrize/brize_session"
+readme = "README.md"
+keywords = ["http"]
+categories = ["software"]
+
+[dependencies]
